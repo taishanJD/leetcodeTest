@@ -1,7 +1,7 @@
 package code160506;
 
 //不用递归算法，输出Fibonacci数列的第n项
- class Solution {
+ class Solution1 {
     public int Fibonacci(int n) {
 	int preNum = 1;
 	int prePreNum = 0;
